@@ -1,2 +1,2 @@
 # deep-learning
-This is a repository for a compete guide on neural networks, starting from the basics of backpropogation and then building models
+This is a repository for a compete guide on neural networks, starting from the basics of backpropogation and then building models. Follows the youtube playlist created by Andrej Karpathy.
